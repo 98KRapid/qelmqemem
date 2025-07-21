@@ -1,5 +1,5 @@
 getgenv().Enabled = true -- change to false then execute again to turn off
-getgenv().Speed = 40 -- change speed to the number you want
+getgenv().Speed = 60 -- change speed to the number you want
 
 local players = game:GetService("Players")
 
